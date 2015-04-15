@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../...iml" filepath="$PROJECT_DIR$/../...iml" />
+      <module fileurl="file://$PROJECT_DIR$/../YUNO-Help/YUNO-Help.iml" filepath="$PROJECT_DIR$/../YUNO-Help/YUNO-Help.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YUNO-Xpose.iml" filepath="$PROJECT_DIR$/YUNO-Xpose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../YUNO-Help/helper/helper.iml" filepath="$PROJECT_DIR$/../YUNO-Help/helper/helper.iml" />
+      <module fileurl="file://$USER_HOME$/workspaces.iml" filepath="$USER_HOME$/workspaces.iml" />
+    </modules>
+  </component>
+</project>

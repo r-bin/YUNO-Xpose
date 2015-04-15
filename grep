@@ -1,0 +1,564 @@
+./app/src/main/java/org/yuno_apps/xpose/module/plugins/Swapper.java:                Swapper.wanamContext = Swapper.mContext.createPackageContext("org.yuno_apps.yuno_xpose", Context.CONTEXT_IGNORE_SECURITY);
+./app/src/main/java/org/yuno_apps/xpose/module/helper/PermissionGranter.java:        if ("org.yuno_apps.yuno_xpose".equals(packageName)) {
+./app/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml:    package="org.yuno_apps.yuno_xpose.test">
+./app/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml:                     android:targetPackage="org.yuno_apps.yuno_xpose"
+./app/build/intermediates/manifests/androidTest/debug/AndroidManifest.xml:                     android:label="Tests for org.yuno_apps.yuno_xpose"/>
+./app/build/intermediates/manifests/full/debug/AndroidManifest.xml:    package="org.yuno_apps.yuno_xpose"
+Binary file ./app/build/intermediates/dex/debug/classes.dex matches
+Binary file ./app/build/intermediates/classes/debug/org/yuno_apps/xpose/module/plugins/Swapper.class matches
+Binary file ./app/build/intermediates/classes/debug/org/yuno_apps/xpose/module/helper/PermissionGranter.class matches
+Binary file ./app/build/intermediates/classes/debug/org/yuno_apps/xpose/BuildConfig.class matches
+./app/build/generated/source/buildConfig/debug/org/yuno_apps/xpose/BuildConfig.java:  public static final String APPLICATION_ID = "org.yuno_apps.yuno_xpose";
+./app/build/generated/source/buildConfig/androidTest/debug/org/yuno_apps/yuno_xpose/test/BuildConfig.java:package org.yuno_apps.yuno_xpose.test;
+./app/build/generated/source/buildConfig/androidTest/debug/org/yuno_apps/yuno_xpose/test/BuildConfig.java:  public static final String APPLICATION_ID = "org.yuno_apps.yuno_xpose.test";
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_background org.yuno_apps.yuno_xpose:background}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_backgroundSplit org.yuno_apps.yuno_xpose:backgroundSplit}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_backgroundStacked org.yuno_apps.yuno_xpose:backgroundStacked}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_contentInsetEnd org.yuno_apps.yuno_xpose:contentInsetEnd}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_contentInsetLeft org.yuno_apps.yuno_xpose:contentInsetLeft}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_contentInsetRight org.yuno_apps.yuno_xpose:contentInsetRight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_contentInsetStart org.yuno_apps.yuno_xpose:contentInsetStart}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_customNavigationLayout org.yuno_apps.yuno_xpose:customNavigationLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_displayOptions org.yuno_apps.yuno_xpose:displayOptions}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_divider org.yuno_apps.yuno_xpose:divider}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_elevation org.yuno_apps.yuno_xpose:elevation}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_height org.yuno_apps.yuno_xpose:height}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_hideOnContentScroll org.yuno_apps.yuno_xpose:hideOnContentScroll}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_homeAsUpIndicator org.yuno_apps.yuno_xpose:homeAsUpIndicator}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_homeLayout org.yuno_apps.yuno_xpose:homeLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_icon org.yuno_apps.yuno_xpose:icon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle org.yuno_apps.yuno_xpose:indeterminateProgressStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_itemPadding org.yuno_apps.yuno_xpose:itemPadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_logo org.yuno_apps.yuno_xpose:logo}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_navigationMode org.yuno_apps.yuno_xpose:navigationMode}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_popupTheme org.yuno_apps.yuno_xpose:popupTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_progressBarPadding org.yuno_apps.yuno_xpose:progressBarPadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_progressBarStyle org.yuno_apps.yuno_xpose:progressBarStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_subtitle org.yuno_apps.yuno_xpose:subtitle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_subtitleTextStyle org.yuno_apps.yuno_xpose:subtitleTextStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_title org.yuno_apps.yuno_xpose:title}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionBar_titleTextStyle org.yuno_apps.yuno_xpose:titleTextStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#background}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:background
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#backgroundSplit}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:backgroundSplit
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#backgroundStacked}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:backgroundStacked
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#contentInsetEnd}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:contentInsetEnd
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#contentInsetLeft}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:contentInsetLeft
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#contentInsetRight}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:contentInsetRight
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#contentInsetStart}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:contentInsetStart
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#customNavigationLayout}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:customNavigationLayout
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#displayOptions}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:displayOptions
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#divider}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:divider
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#elevation}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:elevation
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#height}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:height
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#hideOnContentScroll}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:hideOnContentScroll
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#homeAsUpIndicator}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:homeAsUpIndicator
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#homeLayout}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:homeLayout
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#icon}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:icon
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#indeterminateProgressStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:indeterminateProgressStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#itemPadding}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:itemPadding
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#logo}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:logo
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#navigationMode}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:navigationMode
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#popupTheme}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:popupTheme
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#progressBarPadding}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:progressBarPadding
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#progressBarStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:progressBarStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#subtitle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:subtitle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#subtitleTextStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:subtitleTextStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#title}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:title
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#titleTextStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:titleTextStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionMode_background org.yuno_apps.yuno_xpose:background}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionMode_backgroundSplit org.yuno_apps.yuno_xpose:backgroundSplit}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionMode_closeItemLayout org.yuno_apps.yuno_xpose:closeItemLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionMode_height org.yuno_apps.yuno_xpose:height}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionMode_subtitleTextStyle org.yuno_apps.yuno_xpose:subtitleTextStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActionMode_titleTextStyle org.yuno_apps.yuno_xpose:titleTextStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#background}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:background
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#backgroundSplit}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:backgroundSplit
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#closeItemLayout}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:closeItemLayout
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#height}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:height
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#subtitleTextStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:subtitleTextStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#titleTextStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:titleTextStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable org.yuno_apps.yuno_xpose:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #ActivityChooserView_initialActivityCount org.yuno_apps.yuno_xpose:initialActivityCount}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#expandActivityOverflowButtonDrawable}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:expandActivityOverflowButtonDrawable
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#initialActivityCount}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:initialActivityCount
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #CompatTextView_textAllCaps org.yuno_apps.yuno_xpose:textAllCaps}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#textAllCaps}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:textAllCaps
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #DrawerArrowToggle_barSize org.yuno_apps.yuno_xpose:barSize}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #DrawerArrowToggle_color org.yuno_apps.yuno_xpose:color}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #DrawerArrowToggle_drawableSize org.yuno_apps.yuno_xpose:drawableSize}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars org.yuno_apps.yuno_xpose:gapBetweenBars}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize org.yuno_apps.yuno_xpose:middleBarArrowSize}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #DrawerArrowToggle_spinBars org.yuno_apps.yuno_xpose:spinBars}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #DrawerArrowToggle_thickness org.yuno_apps.yuno_xpose:thickness}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize org.yuno_apps.yuno_xpose:topBottomBarArrowSize}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#barSize}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:barSize
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#color}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:color
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#drawableSize}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:drawableSize
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#gapBetweenBars}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:gapBetweenBars
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#middleBarArrowSize}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:middleBarArrowSize
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#spinBars}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:spinBars
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#thickness}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:thickness
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#topBottomBarArrowSize}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:topBottomBarArrowSize
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #LinearLayoutCompat_divider org.yuno_apps.yuno_xpose:divider}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding org.yuno_apps.yuno_xpose:dividerPadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild org.yuno_apps.yuno_xpose:measureWithLargestChild}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #LinearLayoutCompat_showDividers org.yuno_apps.yuno_xpose:showDividers}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#divider}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:divider
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#dividerPadding}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:dividerPadding
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#measureWithLargestChild}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:measureWithLargestChild
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#showDividers}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:showDividers
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #MenuItem_actionLayout org.yuno_apps.yuno_xpose:actionLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #MenuItem_actionProviderClass org.yuno_apps.yuno_xpose:actionProviderClass}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #MenuItem_actionViewClass org.yuno_apps.yuno_xpose:actionViewClass}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #MenuItem_showAsAction org.yuno_apps.yuno_xpose:showAsAction}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionLayout}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionLayout
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionProviderClass}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionProviderClass
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionViewClass}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionViewClass
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#showAsAction}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:showAsAction
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #MenuView_preserveIconSpacing org.yuno_apps.yuno_xpose:preserveIconSpacing}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#preserveIconSpacing}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:preserveIconSpacing
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #PopupWindow_overlapAnchor org.yuno_apps.yuno_xpose:overlapAnchor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#overlapAnchor}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:overlapAnchor
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor org.yuno_apps.yuno_xpose:state_above_anchor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#state_above_anchor}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:state_above_anchor
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SearchView_closeIcon org.yuno_apps.yuno_xpose:closeIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SearchView_commitIcon org.yuno_apps.yuno_xpose:commitIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SearchView_goIcon org.yuno_apps.yuno_xpose:goIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SearchView_iconifiedByDefault org.yuno_apps.yuno_xpose:iconifiedByDefault}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SearchView_layout org.yuno_apps.yuno_xpose:layout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SearchView_queryBackground org.yuno_apps.yuno_xpose:queryBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SearchView_queryHint org.yuno_apps.yuno_xpose:queryHint}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SearchView_searchIcon org.yuno_apps.yuno_xpose:searchIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SearchView_submitBackground org.yuno_apps.yuno_xpose:submitBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SearchView_suggestionRowLayout org.yuno_apps.yuno_xpose:suggestionRowLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SearchView_voiceIcon org.yuno_apps.yuno_xpose:voiceIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#closeIcon}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:closeIcon
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#commitIcon}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:commitIcon
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#goIcon}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:goIcon
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#iconifiedByDefault}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:iconifiedByDefault
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#layout}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:layout
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#queryBackground}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:queryBackground
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#queryHint}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:queryHint
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#searchIcon}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:searchIcon
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#submitBackground}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:submitBackground
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#suggestionRowLayout}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:suggestionRowLayout
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#voiceIcon}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:voiceIcon
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled org.yuno_apps.yuno_xpose:disableChildrenWhenDisabled}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Spinner_popupPromptView org.yuno_apps.yuno_xpose:popupPromptView}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Spinner_prompt org.yuno_apps.yuno_xpose:prompt}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Spinner_spinnerMode org.yuno_apps.yuno_xpose:spinnerMode}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#disableChildrenWhenDisabled}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:disableChildrenWhenDisabled
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#popupPromptView}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:popupPromptView
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#prompt}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:prompt
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#spinnerMode}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:spinnerMode
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SwitchCompat_showText org.yuno_apps.yuno_xpose:showText}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SwitchCompat_splitTrack org.yuno_apps.yuno_xpose:splitTrack}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SwitchCompat_switchMinWidth org.yuno_apps.yuno_xpose:switchMinWidth}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SwitchCompat_switchPadding org.yuno_apps.yuno_xpose:switchPadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SwitchCompat_switchTextAppearance org.yuno_apps.yuno_xpose:switchTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SwitchCompat_thumbTextPadding org.yuno_apps.yuno_xpose:thumbTextPadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SwitchCompat_track org.yuno_apps.yuno_xpose:track}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#showText}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:showText
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#splitTrack}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:splitTrack
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#switchMinWidth}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:switchMinWidth
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#switchPadding}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:switchPadding
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#switchTextAppearance}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:switchTextAppearance
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#thumbTextPadding}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:thumbTextPadding
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#track}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:track
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #SwitchCompatTextAppearance_textAllCaps org.yuno_apps.yuno_xpose:textAllCaps}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#textAllCaps}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:textAllCaps
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionBarDivider org.yuno_apps.yuno_xpose:actionBarDivider}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionBarItemBackground org.yuno_apps.yuno_xpose:actionBarItemBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionBarPopupTheme org.yuno_apps.yuno_xpose:actionBarPopupTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionBarSize org.yuno_apps.yuno_xpose:actionBarSize}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionBarSplitStyle org.yuno_apps.yuno_xpose:actionBarSplitStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionBarStyle org.yuno_apps.yuno_xpose:actionBarStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionBarTabBarStyle org.yuno_apps.yuno_xpose:actionBarTabBarStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionBarTabStyle org.yuno_apps.yuno_xpose:actionBarTabStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionBarTabTextStyle org.yuno_apps.yuno_xpose:actionBarTabTextStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionBarTheme org.yuno_apps.yuno_xpose:actionBarTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionBarWidgetTheme org.yuno_apps.yuno_xpose:actionBarWidgetTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionButtonStyle org.yuno_apps.yuno_xpose:actionButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionDropDownStyle org.yuno_apps.yuno_xpose:actionDropDownStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionMenuTextAppearance org.yuno_apps.yuno_xpose:actionMenuTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionMenuTextColor org.yuno_apps.yuno_xpose:actionMenuTextColor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModeBackground org.yuno_apps.yuno_xpose:actionModeBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle org.yuno_apps.yuno_xpose:actionModeCloseButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModeCloseDrawable org.yuno_apps.yuno_xpose:actionModeCloseDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModeCopyDrawable org.yuno_apps.yuno_xpose:actionModeCopyDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModeCutDrawable org.yuno_apps.yuno_xpose:actionModeCutDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModeFindDrawable org.yuno_apps.yuno_xpose:actionModeFindDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModePasteDrawable org.yuno_apps.yuno_xpose:actionModePasteDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModePopupWindowStyle org.yuno_apps.yuno_xpose:actionModePopupWindowStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable org.yuno_apps.yuno_xpose:actionModeSelectAllDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModeShareDrawable org.yuno_apps.yuno_xpose:actionModeShareDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModeSplitBackground org.yuno_apps.yuno_xpose:actionModeSplitBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModeStyle org.yuno_apps.yuno_xpose:actionModeStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable org.yuno_apps.yuno_xpose:actionModeWebSearchDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionOverflowButtonStyle org.yuno_apps.yuno_xpose:actionOverflowButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_actionOverflowMenuStyle org.yuno_apps.yuno_xpose:actionOverflowMenuStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_activityChooserViewStyle org.yuno_apps.yuno_xpose:activityChooserViewStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_buttonBarButtonStyle org.yuno_apps.yuno_xpose:buttonBarButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_buttonBarStyle org.yuno_apps.yuno_xpose:buttonBarStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_colorAccent org.yuno_apps.yuno_xpose:colorAccent}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_colorButtonNormal org.yuno_apps.yuno_xpose:colorButtonNormal}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_colorControlActivated org.yuno_apps.yuno_xpose:colorControlActivated}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_colorControlHighlight org.yuno_apps.yuno_xpose:colorControlHighlight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_colorControlNormal org.yuno_apps.yuno_xpose:colorControlNormal}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_colorPrimary org.yuno_apps.yuno_xpose:colorPrimary}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_colorPrimaryDark org.yuno_apps.yuno_xpose:colorPrimaryDark}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_colorSwitchThumbNormal org.yuno_apps.yuno_xpose:colorSwitchThumbNormal}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_dividerHorizontal org.yuno_apps.yuno_xpose:dividerHorizontal}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_dividerVertical org.yuno_apps.yuno_xpose:dividerVertical}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_dropDownListViewStyle org.yuno_apps.yuno_xpose:dropDownListViewStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight org.yuno_apps.yuno_xpose:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_editTextBackground org.yuno_apps.yuno_xpose:editTextBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_editTextColor org.yuno_apps.yuno_xpose:editTextColor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_homeAsUpIndicator org.yuno_apps.yuno_xpose:homeAsUpIndicator}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator org.yuno_apps.yuno_xpose:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_listPopupWindowStyle org.yuno_apps.yuno_xpose:listPopupWindowStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_listPreferredItemHeight org.yuno_apps.yuno_xpose:listPreferredItemHeight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge org.yuno_apps.yuno_xpose:listPreferredItemHeightLarge}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall org.yuno_apps.yuno_xpose:listPreferredItemHeightSmall}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft org.yuno_apps.yuno_xpose:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight org.yuno_apps.yuno_xpose:listPreferredItemPaddingRight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_panelBackground org.yuno_apps.yuno_xpose:panelBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_panelMenuListTheme org.yuno_apps.yuno_xpose:panelMenuListTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_panelMenuListWidth org.yuno_apps.yuno_xpose:panelMenuListWidth}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_popupMenuStyle org.yuno_apps.yuno_xpose:popupMenuStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_popupWindowStyle org.yuno_apps.yuno_xpose:popupWindowStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_searchViewStyle org.yuno_apps.yuno_xpose:searchViewStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_selectableItemBackground org.yuno_apps.yuno_xpose:selectableItemBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless org.yuno_apps.yuno_xpose:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle org.yuno_apps.yuno_xpose:spinnerDropDownItemStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_spinnerStyle org.yuno_apps.yuno_xpose:spinnerStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_switchStyle org.yuno_apps.yuno_xpose:switchStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu org.yuno_apps.yuno_xpose:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_textAppearanceListItem org.yuno_apps.yuno_xpose:textAppearanceListItem}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_textAppearanceListItemSmall org.yuno_apps.yuno_xpose:textAppearanceListItemSmall}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle org.yuno_apps.yuno_xpose:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle org.yuno_apps.yuno_xpose:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu org.yuno_apps.yuno_xpose:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_textColorSearchUrl org.yuno_apps.yuno_xpose:textColorSearchUrl}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle org.yuno_apps.yuno_xpose:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_toolbarStyle org.yuno_apps.yuno_xpose:toolbarStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_windowActionBar org.yuno_apps.yuno_xpose:windowActionBar}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_windowActionBarOverlay org.yuno_apps.yuno_xpose:windowActionBarOverlay}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_windowActionModeOverlay org.yuno_apps.yuno_xpose:windowActionModeOverlay}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_windowFixedHeightMajor org.yuno_apps.yuno_xpose:windowFixedHeightMajor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_windowFixedHeightMinor org.yuno_apps.yuno_xpose:windowFixedHeightMinor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_windowFixedWidthMajor org.yuno_apps.yuno_xpose:windowFixedWidthMajor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Theme_windowFixedWidthMinor org.yuno_apps.yuno_xpose:windowFixedWidthMinor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionBarDivider}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionBarDivider
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionBarItemBackground}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionBarItemBackground
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionBarPopupTheme}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionBarPopupTheme
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionBarSize}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionBarSize
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionBarSplitStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionBarSplitStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionBarStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionBarStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionBarTabBarStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionBarTabBarStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionBarTabStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionBarTabStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionBarTabTextStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionBarTabTextStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionBarTheme}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionBarTheme
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionBarWidgetTheme}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionBarWidgetTheme
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionButtonStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionButtonStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionDropDownStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionDropDownStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionMenuTextAppearance}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionMenuTextAppearance
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionMenuTextColor}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionMenuTextColor
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModeBackground}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModeBackground
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModeCloseButtonStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModeCloseButtonStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModeCloseDrawable}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModeCloseDrawable
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModeCopyDrawable}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModeCopyDrawable
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModeCutDrawable}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModeCutDrawable
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModeFindDrawable}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModeFindDrawable
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModePasteDrawable}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModePasteDrawable
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModePopupWindowStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModePopupWindowStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModeSelectAllDrawable}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModeSelectAllDrawable
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModeShareDrawable}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModeShareDrawable
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModeSplitBackground}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModeSplitBackground
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModeStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModeStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionModeWebSearchDrawable}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionModeWebSearchDrawable
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionOverflowButtonStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionOverflowButtonStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#actionOverflowMenuStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:actionOverflowMenuStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#activityChooserViewStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:activityChooserViewStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#buttonBarButtonStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:buttonBarButtonStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#buttonBarStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:buttonBarStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#colorAccent}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:colorAccent
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#colorButtonNormal}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:colorButtonNormal
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#colorControlActivated}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:colorControlActivated
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#colorControlHighlight}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:colorControlHighlight
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#colorControlNormal}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:colorControlNormal
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#colorPrimary}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:colorPrimary
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#colorPrimaryDark}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:colorPrimaryDark
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#colorSwitchThumbNormal}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:colorSwitchThumbNormal
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#dividerHorizontal}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:dividerHorizontal
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#dividerVertical}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:dividerVertical
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#dropDownListViewStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:dropDownListViewStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#dropdownListPreferredItemHeight}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:dropdownListPreferredItemHeight
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#editTextBackground}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:editTextBackground
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#editTextColor}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:editTextColor
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#homeAsUpIndicator}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:homeAsUpIndicator
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#listChoiceBackgroundIndicator}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:listChoiceBackgroundIndicator
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#listPopupWindowStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:listPopupWindowStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#listPreferredItemHeight}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:listPreferredItemHeight
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#listPreferredItemHeightLarge}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:listPreferredItemHeightLarge
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#listPreferredItemHeightSmall}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:listPreferredItemHeightSmall
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#listPreferredItemPaddingLeft}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:listPreferredItemPaddingLeft
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#listPreferredItemPaddingRight}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:listPreferredItemPaddingRight
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#panelBackground}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:panelBackground
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#panelMenuListTheme}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:panelMenuListTheme
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#panelMenuListWidth}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:panelMenuListWidth
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#popupMenuStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:popupMenuStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#popupWindowStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:popupWindowStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#searchViewStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:searchViewStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#selectableItemBackground}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:selectableItemBackground
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#selectableItemBackgroundBorderless}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:selectableItemBackgroundBorderless
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#spinnerDropDownItemStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:spinnerDropDownItemStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#spinnerStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:spinnerStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#switchStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:switchStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#textAppearanceLargePopupMenu}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:textAppearanceLargePopupMenu
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#textAppearanceListItem}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:textAppearanceListItem
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#textAppearanceListItemSmall}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:textAppearanceListItemSmall
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#textAppearanceSearchResultSubtitle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:textAppearanceSearchResultSubtitle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#textAppearanceSearchResultTitle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:textAppearanceSearchResultTitle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#textAppearanceSmallPopupMenu}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:textAppearanceSmallPopupMenu
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#textColorSearchUrl}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:textColorSearchUrl
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#toolbarNavigationButtonStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:toolbarNavigationButtonStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#toolbarStyle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:toolbarStyle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#windowActionBar}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:windowActionBar
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#windowActionBarOverlay}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:windowActionBarOverlay
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#windowActionModeOverlay}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:windowActionModeOverlay
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#windowFixedHeightMajor}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:windowFixedHeightMajor
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#windowFixedHeightMinor}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:windowFixedHeightMinor
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#windowFixedWidthMajor}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:windowFixedWidthMajor
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#windowFixedWidthMinor}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:windowFixedWidthMinor
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_collapseContentDescription org.yuno_apps.yuno_xpose:collapseContentDescription}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_collapseIcon org.yuno_apps.yuno_xpose:collapseIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_contentInsetEnd org.yuno_apps.yuno_xpose:contentInsetEnd}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_contentInsetLeft org.yuno_apps.yuno_xpose:contentInsetLeft}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_contentInsetRight org.yuno_apps.yuno_xpose:contentInsetRight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_contentInsetStart org.yuno_apps.yuno_xpose:contentInsetStart}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_maxButtonHeight org.yuno_apps.yuno_xpose:maxButtonHeight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_navigationContentDescription org.yuno_apps.yuno_xpose:navigationContentDescription}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_navigationIcon org.yuno_apps.yuno_xpose:navigationIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_popupTheme org.yuno_apps.yuno_xpose:popupTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_subtitle org.yuno_apps.yuno_xpose:subtitle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_subtitleTextAppearance org.yuno_apps.yuno_xpose:subtitleTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_theme org.yuno_apps.yuno_xpose:theme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_title org.yuno_apps.yuno_xpose:title}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_titleMarginBottom org.yuno_apps.yuno_xpose:titleMarginBottom}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_titleMarginEnd org.yuno_apps.yuno_xpose:titleMarginEnd}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_titleMarginStart org.yuno_apps.yuno_xpose:titleMarginStart}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_titleMarginTop org.yuno_apps.yuno_xpose:titleMarginTop}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_titleMargins org.yuno_apps.yuno_xpose:titleMargins}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #Toolbar_titleTextAppearance org.yuno_apps.yuno_xpose:titleTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#collapseContentDescription}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:collapseContentDescription
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#collapseIcon}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:collapseIcon
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#contentInsetEnd}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:contentInsetEnd
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#contentInsetLeft}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:contentInsetLeft
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#contentInsetRight}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:contentInsetRight
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#contentInsetStart}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:contentInsetStart
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#maxButtonHeight}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:maxButtonHeight
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#navigationContentDescription}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:navigationContentDescription
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#navigationIcon}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:navigationIcon
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#popupTheme}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:popupTheme
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#subtitle}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:subtitle
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#subtitleTextAppearance}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:subtitleTextAppearance
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#theme}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:theme
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#title}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:title
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#titleMarginBottom}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:titleMarginBottom
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#titleMarginEnd}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:titleMarginEnd
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#titleMarginStart}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:titleMarginStart
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#titleMarginTop}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:titleMarginTop
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#titleMargins}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:titleMargins
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#titleTextAppearance}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:titleTextAppearance
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #View_paddingEnd org.yuno_apps.yuno_xpose:paddingEnd}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:           <tr><td><code>{@link #View_paddingStart org.yuno_apps.yuno_xpose:paddingStart}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#paddingEnd}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:paddingEnd
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          <p>This symbol is the offset where the {@link org.yuno_apps.yuno_xpose.R.attr#paddingStart}
+./app/build/generated/source/r/debug/org/yuno_apps/xpose/R.java:          @attr name org.yuno_apps.yuno_xpose:paddingStart
+./app/build.gradle:        applicationId "org.yuno_apps.yuno_xpose"
+Binary file ./.gradle/2.2.1/taskArtifacts/taskArtifacts.bin matches
+Binary file ./.gradle/2.2.1/taskArtifacts/fileSnapshots.bin matches
+./.idea/workspace.xml:        <option value="$PROJECT_DIR$/app/src/main/java/org/yuno_apps/yuno_xpose/modules/Tutorial.java" />
+./.idea/workspace.xml:      <recent name="org.yuno_apps.yuno_xpose" />
